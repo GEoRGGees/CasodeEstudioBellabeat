@@ -26,6 +26,6 @@ Su cofundadora y directora Urška Sršen y Sando Mur cofundador y miembro clave 
 Seguimiento de actividad física de Fitbit (CC0: Dominio público, conjunto de datos disponibles a través de Mobius): Este conjunto de datos de Kaggle contiene el seguimiento de la actividad física personal en treinta usuarios de Fitbit.
 
 
-Datos descargados de [kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
+Datos descargados de [kaggle](https://www.kaggle.com/datasets/arashnic/fitbit).
 
 
