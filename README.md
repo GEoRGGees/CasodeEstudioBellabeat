@@ -3,7 +3,7 @@ Este Analisis es un proyecto de coursera [Certificado profesional de Análisis d
 
 ## Introducción.
 
-###Bellabeat es una empresa pequeña y exitosa, que fabrica productos de alta tecnología orientados a la salud de la mujer. 
+### Bellabeat es una empresa pequeña y exitosa, que fabrica productos de alta tecnología orientados a la salud de la mujer. 
 
 Sus productos son:
 
