@@ -22,7 +22,10 @@ Bellabeat esta buscando nuevas oportunidades de negocio para su crecimiento. Por
 Interesados:
 Su cofundadora y directora Urška Sršen y Sando Mur cofundador y miembro clave de Bellabeat.
 
-## Datos de seguimiento de actividad física de Fitbit (CC0: Dominio público, conjunto de datos disponibles a través de Mobius): Este conjunto de datos de Kaggle contiene el seguimiento de la actividad física personal en treinta usuarios de Fitbit. 
+## 	Datos 
+Seguimiento de actividad física de Fitbit (CC0: Dominio público, conjunto de datos disponibles a través de Mobius): Este conjunto de datos de Kaggle contiene el seguimiento de la actividad física personal en treinta usuarios de Fitbit.
+
+
 Datos descargados de [kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 
