@@ -21,6 +21,7 @@ Bellabeat esta buscando nuevas oportunidades de negocio para su crecimiento. Por
 
 Interesados:
 Su cofundadora y directora Urška Sršen y Sando Mur cofundador y miembro clave de Bellabeat.
-![image](https://user-images.githubusercontent.com/88001039/196245542-ede3f5d6-39ce-4fad-8c58-3d152ea0f0e5.png)
+
+Datos descargados de [kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 
